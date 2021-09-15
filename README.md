@@ -11,3 +11,5 @@ Project3: Introduction to nlp. Using bayesian and bag of word to predict categor
 
 Project4: Introduction to Scikit-learn. The problem was predicting customer satisfaction based on some information. First I cleaned data, encode categorical columns and normalize data.
 Then I used some models like KNN, Desicion Tree and Logistic Classifier (and tune hyperparameters) and compared them. Then I tried Bagging, Random Forest and Hard-Voting Classifier and compared them.
+
+Project5: Introduction to NN and image classification with NN in Pytorch. We have a data of products image with 52 categories. I design a NN model whith 4 layers that predicts category of input image. Then I tuned hyperparameters like learningRate, batchSize, momentum, epoch, etc.
