@@ -13,3 +13,5 @@ Project4: Introduction to Scikit-learn. The problem was predicting customer sati
 Then I used some models like KNN, Desicion Tree and Logistic Classifier (and tune hyperparameters) and compared them. Then I tried Bagging, Random Forest and Hard-Voting Classifier and compared them.
 
 Project5: Introduction to NN and image classification with NN in Pytorch. We have a data of products image with 52 categories. I design a NN model whith 4 layers that predicts category of input image. Then I tuned hyperparameters like learningRate, batchSize, momentum, epoch, etc.
+
+Final exam: Predicting phone price based on information in phone advertising. Our data set was collection of phone advertising containing phone_brand, title, description, etc. I preprocessed data, extracting new features from advertising description using NLP tools, encoding categorical columns, etc. Finally use some models for predicting phone price such as LinearRegression, TreeRegression and lightgbm. I also tune hyperparameters for each model to achieve optimize model.
